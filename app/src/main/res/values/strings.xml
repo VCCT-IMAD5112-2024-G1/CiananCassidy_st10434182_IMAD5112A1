@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">History App</string>
+    <string name="textView">Historical figures</string>
+    <string name="editText">Enter your age</string>
+    <string name="Button">Generate</string>
+    <string name="Button2">Clear</string>
+    <string name="textView2"> </string>
+    <string name="ImageView">History</string>
+</resources>
